@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './Components/App';
 import reportWebVitals from './reportWebVitals';
 import Navbar from './Laoyouts/Navbar';
 import Footer from './Laoyouts/footer';
@@ -16,7 +15,6 @@ root.render(
     <LeftAside/>
     <RightAside/> 
     <Article/>
-    {/* <App /> */}
     <Footer/>
   </React.StrictMode>
 );

@@ -1,0 +1,21 @@
+.story-div{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.title h3{
+  color: greenyellow;
+  padding: .5rem;
+}
+.img-div{
+  display: flex;
+  justify-content: center;
+}
+.story{
+  position: relative;
+
+}
+.image{
+  height: 12rem;
+  width: 15rem;
+}

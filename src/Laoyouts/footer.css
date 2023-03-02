@@ -1,0 +1,10 @@
+.footer{
+    background-color: rgb(45, 41, 41);
+    height:  rem;
+    padding: 1rem;
+    width: 100%;
+    text-align: center;
+}
+.footer a{
+    color: floralwhite;
+}

@@ -4,10 +4,10 @@ import './Navbar.css';
 function Navbar() {
     return (
       <nav className="navbar">
+        <a href="/" className="app-title">Short Kids Story</a> 
+
+
         <ul className="navbar-nav">
-        <li className="nav-item">
-            <a href="/" className="nav-brand">Brand</a>
-          </li>
           <li className="nav-item">
             <a href="/" className="nav-link">Home</a>
           </li>

@@ -16,6 +16,8 @@ function Stories() {
           </figure>
           </div>
           <div className='story'>
+            <span>12.11.2023</span>
+            <span>12000</span>
             <p>
           Timmie Willie is a country mouse who is accidentally taken to a city in a vegetable basket. When he wakes up, he finds himself at a party and makes a friend.
 

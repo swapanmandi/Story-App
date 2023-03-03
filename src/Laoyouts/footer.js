@@ -4,7 +4,7 @@ import './footer.css';
 function Footer(){
     return(
       <div className="footer">
-        <a>Copyright</a>
+        <a href="/">Copyright</a>
       </div>
 
     )

@@ -1,11 +1,9 @@
 .laside{
+    position: fixed;
     left: 0;
     margin-top: 2.5rem;
-    position: fixed;
     height: 100%;
     width: 20%;
     background-color: aquamarine;
     }
-    .list {
-        padding: .5rem 0;
-    }
+   

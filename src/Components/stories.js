@@ -1,3 +1,4 @@
+import React from 'react';
 import './stories.css';
 import img1 from '../assets/1.jpg';
 

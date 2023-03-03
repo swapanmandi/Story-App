@@ -2,6 +2,7 @@
     background-color: bisque;
     position: fixed;
     top: 0;
+    left: 0;
     z-index: 1;
     width: 100%;
     padding: 1rem;
@@ -14,10 +15,9 @@
     margin: 0;
     position: relative ;
   }
-  
-  .nav-item {
+  /* .nav-item{
     
-  }
+  } */
   
   .nav-link {
     color: black;

@@ -12,7 +12,6 @@ function Article(){
     return(
         <article className="article">
             <Navbar />
-            
              <Routes>
                         <Route exact path='/' element={<Stories />} />
                         <Route exact path='/latest' element={<Latest />} />
@@ -20,7 +19,6 @@ function Article(){
                         <Route exact path='/about' element={<About />} />
                         <Route exact path='/contact' element={<Contact />} />
                     </Routes>
-                 
         </article>
 
     )

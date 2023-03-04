@@ -1,12 +1,14 @@
 .footer{
     position: relative;
     bottom: 0;
-    display: flex;
     background-color: rgb(45, 41, 41);
     width: 100%;
-    text-align: center;
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
 }
 .footer a{
-    color: greenyellow;
-    padding: .5rem;
+    color: greenyellow
 }

@@ -1,9 +1,10 @@
 import React from "react";
+import './latest.css';
 
 
 function Latest(){
     return(
-        <div style={{position:"absolute"}}>
+        <div className="latest">
 <p>hi this is latest page</p>
         </div>
     )

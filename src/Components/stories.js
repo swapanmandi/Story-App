@@ -20,17 +20,7 @@ function Stories() {
             <span>12.11.2023</span>
             <span>12000</span>
             <p>
-          Timmie Willie is a country mouse who is accidentally taken to a city in a vegetable basket. When he wakes up, he finds himself at a party and makes a friend.
-
-When he is unable to bear (tolerate or experience) the city life, he returns to his home but invites his friend to the village.
-
-When his friend visits him, something similar happens.
-
-What Is Great About It: Humans have been living without cities or villages for most of history.
-
-That means that both village and city life are recent inventions. And just like every other invention, we need to decide their costs and benefits.
-
-The story is precisely (exactly) about this debate. It is divided into short paragraphs and has illustrations for each scene. This is best for beginners who want to start reading immediately.
+            Timmie Willie is a country mouse who is accidentally taken to a city in a vegetable basket. When he wakes up, he finds himself at a party and makes a friend.
           </p>
         </div>
       </div>

@@ -3,11 +3,11 @@ import ReactDOM from 'react-dom/client';
 import { BrowserRouter } from 'react-router-dom';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-// import Navbar from './Laoyouts/Navbar';
 import Footer from './Laoyouts/footer';
 import LeftAside from './Laoyouts/leftAside';
 import RightAside from './Laoyouts/rightAside';
 import Article from './Laoyouts/article';
+import AdminPanel from './admin/sm';
 
 
 
@@ -18,6 +18,7 @@ root.render(
     <RightAside/> 
     <BrowserRouter>
     <Article/>
+    <AdminPanel />  
     </BrowserRouter>
     <Footer/>
   </React.StrictMode>
